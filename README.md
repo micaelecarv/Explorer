@@ -1,6 +1,8 @@
 # Trilha Explorer - RocketSeat
 
-A trilha Explorer é promovida pela RocketSeat que tem como objetivo estimular o desenvolvimento de habilidades técnicas e comportamentais, por meio de desafios reais. Onde 70% é composto por Coding, 20% por Networking e 10% por Branding. É composto por 20 módulos, que abordam assuntos técnicos como: Fundamentos da Web, Ambiente e HTML, Design & CSS, Lógica e Algoritmos, Javascript, Git & GitHub, Back-end, Front-end, API Restful, e Deploy de Projetos.
+A [Trilha Explorer](https://www.rocketseat.com.br/explorer) tem como objetivo impulsionar o desenvolvimento de habilidades técnicas e comportamentais em programação, por meio de desafios reais baseados no método 7-2-1, cujo programa é 70% de Coding, 20% de Networking e 10% por Branding. 
+
+É composto por 20 módulos, que abordam assuntos técnicos como: Fundamentos da Web, Ambiente e HTML, Design & CSS, Lógica e Algoritmos, Javascript, Git & GitHub, Back-end, Front-end, API Restful, e Deploy de Projetos. E comportamentais como: Organização de Estudos, Mentalidade, Marca Pessoal, Inglês e Emprego.
 
 ## 🚨 Projetos
 

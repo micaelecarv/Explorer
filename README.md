@@ -1,4 +1,4 @@
-# Repositório de Projetos da Trilha Explorer promovida pela RocketSeat
+# Projetos da Trilha Explorer - RocketSeat
 
 
 <br/>
@@ -9,7 +9,6 @@
 - Treine Me
 - RocketSet
 
-<br/>
 <br/>
 <br/>
 

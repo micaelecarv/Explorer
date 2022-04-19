@@ -34,3 +34,9 @@ Você pode visualizar o layout dos projetow através dos links abaixo. É necess
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
+## 📄 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+

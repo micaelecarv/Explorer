@@ -1,7 +1,7 @@
 # Projetos da Trilha Explorer - RocketSeat
 
 
-## 🔔 Projetos
+## 🚨 Projetos
 
 - Moveis Customizados
 - Treine Me

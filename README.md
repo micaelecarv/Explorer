@@ -1,4 +1,4 @@
-# Projetos da Trilha Explorer - RocketSeat
+# Trilha Explorer - RocketSeat
 
 
 ## 🚨 Projetos

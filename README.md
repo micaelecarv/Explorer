@@ -3,9 +3,9 @@
 
 ## 🚨 Projetos
 
-- Moveis Customizados
-- Treine Me
-- RocketSet
+- [Moveis Customizados](./Treine-me)
+- [Treine Me](./moveis-customizados)
+- [RocketSet](./rocket-set)
 
 ## ✨ Tecnologias
 

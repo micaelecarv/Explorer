@@ -1,22 +1,11 @@
 # Projetos da Trilha Explorer - RocketSeat
 
 
-<br/>
-
-### 📌 Table of Contents
+### 🔔 Projetos
 
 - Moveis Customizados
 - Treine Me
 - RocketSet
-
-<br/>
-<br/>
-
----
-
-#### Status: 🚧 In progress
-
-<p style="color:#381480"> ██▁▁▁▁▁▁▁▁ &nbsp;20% </p>
 
 ## ✨ Tecnologias
 

@@ -9,6 +9,9 @@ A [Trilha Explorer](https://www.rocketseat.com.br/explorer) tem como objetivo im
 - [Moveis Customizados](./Treine-me)
 - [Treine Me](./moveis-customizados)
 - [RocketSet](./rocket-set)
+- [Mentorship](./form-mentorship)
+- [Crie seu Evento](./crie-seu-evento)
+
 
 ## ✨ Tecnologias
 
